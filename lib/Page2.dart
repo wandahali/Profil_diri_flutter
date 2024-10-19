@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class Page2 extends StatelessWidget {
   const Page2({Key? key}) : super(key: key);
 
@@ -132,9 +131,7 @@ class Page2 extends StatelessWidget {
                           SizedBox(height: 8.0), 
                           Text('CSS', style: TextStyle(fontSize: 16.0)),
                           SizedBox(height: 8.0),
-                          Text('Laravel', style: TextStyle(fontSize: 16.0)),
-                          SizedBox(height: 8.0),
-                          Text('Java', style: TextStyle(fontSize: 16.0)),
+
                         ],
                       ),
                     ),
